@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[CodeSpitz73-1] ES6+ 기초편 1회차 후기!"
+title:  "[CodeSpitz73-1] ES6+ 기초편 1회차 정리!"
 author: Kyle
 date:   2017-11-03 17:27:49 +0900
 categories: development

@@ -1,17 +1,18 @@
-title: Kyle's awesome thinkings
-name: Kyle
-description: >- 
+title: KYLE-ISH
+name: KIM, KWANGMIN
+description: |
   UI/UX developer.
-  Data and User Experiences are the most important things.
+  UX and Data maketh developer.
 email: kyle.kim0305@gmail.com
 github: ambrosiak
+facebook: www.facebook.com/amazingloving
 
 baseurl: ""
 url: "http://ambrosiak.github.io"
 
 markdown: kramdown
 
-image: '/assets/images/default_blog_cover.png'
+image: '/assets/images/default_blog_cover.jpeg'
 asset_url: /assets
 
 google_analytics:
